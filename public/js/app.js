@@ -5,11 +5,15 @@ const from =  $('#from');
 const to =  $('#to');
 const amount =  $('#amount');
 const converted = $('#converted');
-const data =  $('#dataType:checked');
+
 
 // On Convert button click
 
 $(".btn").click(function(){
+
+    // Get data type XML or JSON
+
+    let data =  $('#dataType:checked');
 
     // Simple validation to check only a number can be entered.
 
