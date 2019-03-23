@@ -18,7 +18,7 @@ class ExchangeController extends Controller
             "USD" => "United States dollar",
             "EUR" => "Euro",
             "CHF" => "Swiss franc",
-            "JY" => "Japanese yen",
+            "JPY" => "Japanese yen",
             "KRW" => "South Korean won",
             "KWD" => "Kuwaiti dinar",
             "MXN" => "Mexican peso",
