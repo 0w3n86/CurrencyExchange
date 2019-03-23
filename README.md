@@ -1,6 +1,8 @@
 # Currency Exchange
 Simple currency exchange calculator created with Laravel. 
 
+[Project link](https://limitless-stream-56216.herokuapp.com/)
+
 ## Project Brief 
 
 Build a Currency exchange calculator app in Laravel… 
